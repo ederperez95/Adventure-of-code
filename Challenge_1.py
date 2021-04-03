@@ -9,7 +9,7 @@ Created on Thu Mar 18 10:52:30 2021
 
 #import the Data from an known file
 import pandas as pd
-df = pd.read_csv("F:\\Own_Projects\\Challenges\\Day_One\\Expenses.txt", "r")
+df = pd.read_csv("Expenses.txt", "r")
 
 #part 1   
 
