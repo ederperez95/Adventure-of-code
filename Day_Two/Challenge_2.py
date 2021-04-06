@@ -5,7 +5,7 @@ Created on Thu Mar 18 17:23:15 2021
 @author: PerezGarcia
 """
 
-#Took from https://adventofcode.com/2020/day/1
+#Took from https://adventofcode.com/2020/day/2
 
 import pandas as pd
 
