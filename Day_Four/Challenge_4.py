@@ -10,7 +10,7 @@ Created on Fri Mar 19 17:13:32 2021
 import re
 field_pattern = re.compile(r'(\w+):([^\s]+)')
 
-with open(r"F:\Own_Projects\Challenges\Day_Four\Passports.txt") as f:
+with open(r"Passports.txt") as f:
     count = 0
     passports = {}
     aux = ''
