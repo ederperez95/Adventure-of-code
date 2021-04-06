@@ -41,7 +41,7 @@ def contained_bags(rules, dictionary_n, temp):
     return dictionary_3, temp_0
 
 
-with open(r"F:\Own_Projects\Challenges\Day_Seven\Bag_color.txt") as f:
+with open(r"Bag_color.txt") as f:
     for i in f.readlines():
         rules.append(i)
         
