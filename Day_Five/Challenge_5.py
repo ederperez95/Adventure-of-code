@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 import math
 
-df = pd.read_csv(r"F:\Own_Projects\Challenges\Day_Five\Boarding_Pass.txt", "r", header = None)
+df = pd.read_csv(r"Boarding_Pass.txt", "r", header = None)
 Airplane = np.zeros((128, 8))
 
 
