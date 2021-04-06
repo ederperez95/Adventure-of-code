@@ -7,7 +7,7 @@ Created on Fri Mar 19 06:29:56 2021
 
 
 import pandas as pd
-df = pd.read_csv(r"F:\Own_Projects\Challenges\Day_Three\Trees.txt", "r", header = None)
+df = pd.read_csv(r"Trees.txt", "r", header = None)
 
 #Part 1
 def counter(coordinate_x, movements):
