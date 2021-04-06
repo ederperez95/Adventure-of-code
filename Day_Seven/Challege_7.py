@@ -18,7 +18,7 @@ def verification(color, rule):
 def Filter(List):
     return list(filter(lambda string: string != 0, List))
 
-with open(r"F:\Own_Projects\Challenges\Day_Seven\Bag_color.txt") as f:
+with open(r"Bag_color.txt") as f:
     count = 0
     for i in f.readlines():
         if verification(color, i) != 0:
